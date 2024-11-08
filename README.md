@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeZdr(Pedro Henrique Alves Ferreira)
+- 👋 Hi, I’m @PeZdro(Pedro Henrique Alves Ferreira)
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning information systems
 - 💞️ I’m looking to collaborate on people's minds
